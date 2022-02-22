@@ -1,0 +1,2 @@
+cd "d:\Documents\C++\Demos\2\" ; if ($?) { g++ functions.cpp  -o functions } ; if ($?) { .\function
+cd "d:\Documents\C++\Demos\2\" ; if ($?) { g++ functions.cpp  -o functions } ; if ($?) { .\function
