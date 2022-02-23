@@ -1,0 +1,6 @@
+Number of Novels Authored
+Author name
+Number of novels
+Jane Austen, 6
+Ernest Hemingway, 9
+-1
