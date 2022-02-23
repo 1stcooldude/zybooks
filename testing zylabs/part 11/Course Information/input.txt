@@ -1,0 +1,7 @@
+ECE287
+Digital Systems Design
+ECE387
+Embedded Systems Design
+Mark Patterson
+Fall 2018
+WF: 2-3:30 pm
