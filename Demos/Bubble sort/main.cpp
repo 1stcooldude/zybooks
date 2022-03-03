@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
 
-   const int SIZE = 10;
+   const int SIZE = 20;
    vector<int> numbers(SIZE);
 
    for (int i = 0; i < SIZE; i++){
