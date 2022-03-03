@@ -9,9 +9,6 @@ void PrintAllPermutations(const vector<string> &permList, const vector<string> &
    vector<string> remaining = permList;
    vector<string> done = nameList;
    if (remaining.size() == 0){
-      return;
-   }
-   if (remaining.size() == 1){
       for (int i = 0; i < done.size(); i++){
          cout << done.at(i);
       }
